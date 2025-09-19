@@ -21,11 +21,12 @@ Desarrolla una aplicación en Android Studio que permita simular un sistema de v
 2. Accede al Menú principal, desde donde puede ir a:
    
 o Productos: gestionar inventario (agregar, editar, eliminar, ver stock).
+
 o Clientes: registrar datos de los compradores.
+
 o Ventas: registrar una nueva venta seleccionando productos y un cliente, y generar el total de la transacción.
 
-Cada empleado verá únicamente la información que él mismo haya ingresado,
-gracias a que los datos se guardan organizados por el UID del usuario autenticado.
+Cada empleado verá únicamente la información que él mismo haya ingresado, gracias a que los datos se guardan organizados por el UID del usuario autenticado.
 
 ### Video con la funcionalidad de la APP
 
