@@ -1,6 +1,6 @@
 Desafio practico 2 
 
-Enunciado del problema:
+Enunciado del proyecto:
 
 # Venta Express Tech
 Desarrolla una aplicación en Android Studio que permita simular un sistema de ventas. (Venta de Conmputadoras, Celulares y Tablets)
@@ -35,5 +35,7 @@ https://drive.google.com/file/d/1MJrcW49ZclxHunheCpEsoTCfH20XxuCL/view?usp=shari
   ## Integrantes del grupo:
   
 •	Rodrigo Alberto Velasco Herrera - VH192433
+
 •	Mario Antonio Pacheco Guerrero - PG240099
+
 •	Cristian Alexander Hernández Valiente - HV240081
