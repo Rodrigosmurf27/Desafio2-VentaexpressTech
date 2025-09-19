@@ -1,0 +1,75 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">VentaExpress Tech</string>
+
+    <!-- Autenticación -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="email_hint">Correo</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="confirm_password_hint">Confirmar contraseña</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Crear cuenta</string>
+    <string name="go_to_register">¿No tienes cuenta? Regístrate</string>
+    <string name="go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="msg_fill_all">Completa todos los campos</string>
+    <string name="msg_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="msg_registered">Registrado. Inicia sesión.</string>
+    <string name="msg_error">Error</string>
+
+    <!-- Botones OAuth -->
+    <string name="btn_login_github">Continuar con GitHub</string>
+    <string name="btn_login_facebook">Continuar con Facebook</string>
+
+    <!-- Menú principal -->
+    <string name="menu_products">Productos</string>
+    <string name="menu_clients">Clientes</string>
+    <string name="menu_sales">Ventas</string>
+    <string name="menu_logout">Cerrar sesión</string>
+
+    <!-- Productos -->
+    <string name="title_products">Productos</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_description">Descripción</string>
+    <string name="hint_price">Precio</string>
+    <string name="hint_stock">Stock</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="label_stock">Stock:</string>
+    <string name="msg_name_required">Nombre requerido</string>
+
+    <!-- Clientes -->
+    <string name="title_clients">Clientes</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_phone">Teléfono</string>
+
+    <!-- Ventas -->
+    <string name="title_sales">Ventas</string>
+    <string name="title_new_sale">Nueva venta</string>
+    <string name="label_client">Cliente</string>
+    <string name="label_select_products">Selecciona productos</string>
+    <string name="label_items">Items:</string>
+    <string name="label_available_short">Disp:</string>
+    <string name="label_total_prefix">Total:</string>
+    <string name="btn_register_sale">Registrar venta</string>
+    <string name="msg_select_client">Selecciona un cliente</string>
+    <string name="msg_select_products">Selecciona al menos un producto</string>
+    <string name="msg_sale_registered">Venta registrada por %1$s</string>
+
+    <!-- Accesibilidad -->
+    <string name="cd_add_sale">Agregar venta</string>
+
+    <!-- ===== Facebook SDK =====
+         Cambia estos valores con los de tu app en Facebook Developers -->
+    <string name="facebook_app_id">1308556670722668</string>
+    <string name="facebook_client_token">3bad011ffe32aa3b80373a97fdb07060</string>
+    <!-- MUY IMPORTANTE: es "fb" seguido del App ID -->
+    <string name="fb_login_protocol_scheme">fb3bad011ffe32aa3b80373a97fdb07060</string>
+    <!-- ======================= -->
+    <string name="or_register_with">o regístrate con</string>
+    <string name="btn_register_github">Registrarse con GitHub</string>
+    <string name="btn_register_facebook">Registrarse con Facebook</string>
+    <string name="or_signin_with">o inicia sesión con</string>
+
+
+</resources>

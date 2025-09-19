@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/cardProductos"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:text="@string/menu_products"
+            android:textAllCaps="false"
+            android:textColor="?attr/colorOnPrimary"
+            app:cornerRadius="28dp"
+            app:backgroundTint="?attr/colorPrimary" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/cardClientes"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="12dp"
+            android:text="@string/menu_clients"
+            android:textAllCaps="false"
+            android:textColor="?attr/colorOnSecondary"
+            app:cornerRadius="28dp"
+            app:backgroundTint="?attr/colorSecondary" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/cardVentas"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="12dp"
+            android:text="@string/menu_sales"
+            android:textAllCaps="false"
+            android:textColor="?attr/colorOnTertiary"
+            app:cornerRadius="28dp"
+            app:backgroundTint="?attr/colorTertiary" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnLogout"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="24dp"
+            android:text="@string/menu_logout"
+            android:textAllCaps="false"
+            android:textColor="?attr/colorOnError"
+            app:cornerRadius="28dp"
+            app:backgroundTint="?attr/colorError" />
+
+    </LinearLayout>
+</ScrollView>

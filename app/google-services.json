@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "48424719825",
+    "firebase_url": "https://desafio2-1fb65-default-rtdb.firebaseio.com",
+    "project_id": "desafio2-1fb65",
+    "storage_bucket": "desafio2-1fb65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48424719825:android:837421434fa3aede9c7cf0",
+        "android_client_info": {
+          "package_name": "com.udb.ventaexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIUGIgksBE6wrpJNh9mGQGf2wGWv2cZUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
